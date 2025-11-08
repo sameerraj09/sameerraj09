@@ -1,5 +1,5 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=28&duration=4000&pause=1000&color=C9F7AF&width=435&lines=Hello+there%2C+Myself+Sameer+Raj;Software+Engineer+Bank+Of+America+Student+at+VIT+VELLORE;Full+Stack+Developer;Feel+Free+To+Connect+Me+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=28&duration=4000&pause=1000&color=C9F7AF&width=435&lines=Hello+there%2C+Myself+Sameer+Raj;Software+Engineer+at+Bank+Of+America;ML+Engineer;Feel+Free+To+Connect+Me+)](https://git.io/typing-svg)
 <br><h3 align="center">A Engineer, not a Framework</h3><br><br><br><br>
 
 <img align="right" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" alt="sameerraj09" width="250" height="200" />
